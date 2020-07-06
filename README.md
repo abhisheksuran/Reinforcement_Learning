@@ -11,3 +11,4 @@ https://pythonprogramming.net/training-deep-q-learning-dqn-reinforcement-learnin
 https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python
 http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 https://github.com/udacity/deep-reinforcement-learning
+https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
