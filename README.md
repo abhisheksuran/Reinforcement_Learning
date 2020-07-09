@@ -3,6 +3,7 @@ Play Atari with DQN , implemented in Tensorflow 2.0
 
 # Mountain Car with QLearning
 Train using qlearning and DeepQLearning
+# Dueling Double Deep Q Learning
 
 ## Thanks to:-
 https://www.freecodecamp.org/news/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8/
