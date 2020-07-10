@@ -1,5 +1,5 @@
-## Atari_DQN
-Play Atari with DQN , implemented in Tensorflow 2.0 
+## RL
+Implemented in Tensorflow 2.x
 ## Mountain Car with QLearning
 Train using qlearning and DeepQLearning
 ## Dueling Double Deep Q Learning
