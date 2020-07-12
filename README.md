@@ -1,6 +1,6 @@
 ## RL
 ## Implemented in Tensorflow 2.x
-1. Atari (New_Atari_DQN_image.ipynb, atari_DDDQN.ipynb are correctly implemented abut not able to fully train on colab(takes lot of time to train, so was not able to train for much time. Will try to get GPU on GCP) )
+1. Atari (New_Atari_DQN_image.ipynb, atari_DDDQN.ipynb are correctly implemented but not able to fully train on colab(takes lot of time to train, Will try to get GPU on GCP) )
 2. Mountain Car with QLearning (works)
 3. Train using qlearning and DeepQLearning (works)
 4. Dueling Double Deep Q Learning (works)
