@@ -6,7 +6,7 @@
 4. Dueling Double Deep Q Learning (works)
 5. Deep Q learning (works)
 
-NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked frame was not correct, so i have uploaded new files.
+NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked frame was not correct, so i have uploaded new files with correct implementation.
 
 ## Thanks to:-
 https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
