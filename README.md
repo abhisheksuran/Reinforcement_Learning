@@ -1,9 +1,12 @@
 ## RL
-Implemented in Tensorflow 2.x
-## Mountain Car with QLearning
-Train using qlearning and DeepQLearning
-## Dueling Double Deep Q Learning
-## Deep Q learning
+## Implemented in Tensorflow 2.x
+1. Atari (New_Atari_DQN_image.ipynb, atari_DDDQN.ipynb are correctly implemented abut not able to fully train on colab(takes lot of time to train, so was not able to train for much time. Will try to get GPU on GCP) )
+2. Mountain Car with QLearning (works)
+3. Train using qlearning and DeepQLearning (works)
+4. Dueling Double Deep Q Learning (works)
+5. Deep Q learning (works)
+NOTE:- Atari_DQN_image.ipynb was implemented wayback and implementation of preprocessing for stacked frame was not correct, so i have uploaded new files.
+
 ## Thanks to:-
 https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
 https://www.freecodecamp.org/news/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8/
