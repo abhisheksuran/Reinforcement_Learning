@@ -5,6 +5,7 @@
 3. Train using qlearning and DeepQLearning (works)
 4. Dueling Double Deep Q Learning (works)
 5. Deep Q learning (works)
+
 NOTE:- Atari_DQN_image.ipynb was implemented wayback and implementation of preprocessing for stacked frame was not correct, so i have uploaded new files.
 
 ## Thanks to:-
