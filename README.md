@@ -7,7 +7,7 @@
 5. Deep Q learning (works)
 
 NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked frame was not correct, so i have uploaded new files with correct implementation.
-## Recommended to learn RL:
+## Recommended resources to learn RL:
 1. https://www.coursera.org/specializations/reinforcement-learning  (one of the best course for RL fundamentals)
 2. https://mitpress.mit.edu/books/reinforcement-learning-second-edition (Book)
 3. https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw (best for coding)
