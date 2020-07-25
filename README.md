@@ -14,6 +14,7 @@ NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked
 2. https://mitpress.mit.edu/books/reinforcement-learning-second-edition (Book)
 3. https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw (best for coding)
 4. https://adventuresinmachinelearning.com (very useful)
+5. https://www.youtube.com/playlist?list=PLWzQK00nc192L7UMJyTmLXaHa3KcO0wBT (Very useful for overview of different algorithms)
 ## Thanks to:-
 1. https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
 2. https://www.freecodecamp.org/news/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8/
