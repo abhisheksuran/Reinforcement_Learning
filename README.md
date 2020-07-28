@@ -7,6 +7,7 @@
 5. Deep Q learning (works)
 6. ActorCritic (works)
 7. Reinforce(Policy Gradient)  (works)
+8. A2C (works)
 
 NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked frame was not correct, so i have uploaded new files with correct implementation.
 ## Recommended resources to learn RL:
