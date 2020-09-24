@@ -10,6 +10,7 @@
 8. A2C (works)
 9. Multi-Worker_Actor-Critic(A2C) (works)
 10. Proximal Policy Optimization (PPO) (works)
+11. Deep Deterministic Policy Gradients (DDPG) (works)
 
 NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked frame was not correct, so i have uploaded new files with correct implementation.
 ## Recommended resources to learn RL:
