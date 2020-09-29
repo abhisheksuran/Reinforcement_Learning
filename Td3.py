@@ -186,9 +186,8 @@ class Agent():
 
 
 with tf.device('GPU:0'):
-    agent = Agent(2)
     tf.random.set_seed(336699)
-
+    agent = Agent(2)
     episods = 20000
     ep_reward = []
     total_avgr = []
