@@ -10,8 +10,8 @@
 8. A2C (works)
 9. Multi-Worker_Actor-Critic(A2C) (works)
 10. Proximal Policy Optimization (PPO) (works)
-11. Deep Deterministic Policy Gradients (DDPG) (works)
-12. Twin Delayed Deep Deterministic Policy Gradient (TD3) (works)
+11. Deep Deterministic Policy Gradients (DDPG) (works, Tau not used)
+12. Twin Delayed Deep Deterministic Policy Gradient (TD3) (works, Tau not used)
 13. Soft Actor Critic (softAC) (works, reparameterized sampling not used as of now)
 
 NOTE:- Inside Atari_DQN_image.ipynb, implementation of preprocessing for stacked frame was not correct, so i have uploaded new files with correct implementation.
